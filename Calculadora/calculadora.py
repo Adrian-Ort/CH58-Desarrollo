@@ -1,6 +1,4 @@
 
-input("Hola prueba")
-
 def operaciones_complejas():
     expresion = input("Escribe la operación que quieras realizar: ")
     try:
